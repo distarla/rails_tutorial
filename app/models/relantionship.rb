@@ -1,0 +1,2 @@
+class Relantionship < ApplicationRecord
+end
